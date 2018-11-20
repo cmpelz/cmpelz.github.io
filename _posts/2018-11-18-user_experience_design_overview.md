@@ -1,7 +1,7 @@
 ---
 layout: post
 title: User Experience Design Overview
-subtitle: 'Understanding to Make' Summary
+subtitle: Understanding to Make Summary
 ---
 
 ## User Experience Design Overview
