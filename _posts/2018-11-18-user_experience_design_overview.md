@@ -19,4 +19,52 @@ Our heuristic evaluations yielded fairly general information about our design th
 
 #### Final Paper Prototype
 
-Our primary tasks, the evolution of which is described in the previous write-up for Testing Results, are “Increased agency in user museum experience” and “continued engagement with the museum and/or the collection after visit.” We have changed the “Save/Share/Print” button for routes to say “Remember Your Route,” a direct reference to our task of continued engagement with the museum experience, and have changed the “Review a Piece” button to “Remember a Piece,” which corresponds more clearly with the app’s built in camera and the adding of a piece to one’s route. This, in addition to removing the “Route Options” menu in favor of having the “Start Tracking Route” button appear directly on the home page, have enabled us to remove layers of obfuscation from our design and make it more streamlined and clearly related to our tasks. 
+Our primary tasks, the evolution of which is described in the previous write-up for Testing Results, are “Increased agency in user museum experience” and “continued engagement with the museum and/or the collection after visit.” We have changed the “Save/Share/Print” button for routes to say “Remember Your Route,” a direct reference to our task of continued engagement with the museum experience, and have changed the “Review a Piece” button to “Remember a Piece,” which corresponds more clearly with the app’s built in camera and the adding of a piece to one’s route. This, in addition to removing the “Route Options” menu in favor of having the “Start Tracking Route” button appear directly on the home page, have enabled us to remove layers of obfuscation from our design and make it more streamlined and clearly related to our tasks. We have also included feedback/documentation in the form of "Help" suggestions that appear when users hold down certain buttons to see what they do as well as appearing at the initial opening of the app as a form of walkthrough. The relevant pages are shown below.
+
+![](/img/urHomeInfo.JPG)
+
+![](/img/urTrackingRouteInfo.JPG)
+
+![](/img/urRememberPieceInfo.JPG)
+
+![](/img/urRecentRoutesInfo.JPG)
+
+![](/img/urRememberRouteInfo.JPG)
+
+![](/img/urHome.JPG)
+
+![](/img/urStartedTracking.JPG)
+
+The "Start Tracking Route Button" changes to "Started Tracking" when clicked.
+
+![](/img/urCamera.JPG)
+User takes picture of an interesting piece and opts to see similar pieces – an option previously located on the kiosks that was moved to mobile in the final prototype. Continued switching to mobile of these kiosk options to see similar pieces, routes containing them, and past routes is shown below.
+
+![](/img/urSimilarPieces.JPG)
+
+![](/img/urSimilarPiece.JPG)
+
+![](/img/urRoutes.JPG)
+User sees routes that include the similar piece they selected
+
+![](/img/urSingleRoute.JPG)
+
+![](/img/urSharePage.JPG)
+User shares a route they particularly liked
+
+![](/img/urShared.JPG)
+
+![](/img/urHome.JPG)
+
+![](/img/urRoutes.JPG)
+User views recent routes
+
+![](/img/urSingleRoute.JPG)
+
+![](/img/urSharePage.JPG)
+User prints one of the routes they liked
+
+![](/img/urHome.JPG)
+
+![](/img/urSharePage.JPG)
+User saves their own route
