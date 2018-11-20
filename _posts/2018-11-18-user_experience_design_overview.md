@@ -91,6 +91,8 @@ The iterative process allowed us to shape and reshape our design as we progresse
 
 It is possible that more iterations may have produced tweaks that would have made a "better" design, but through the iterative process taken our group was able to identify and overcome large obstacles in the design successfully.  Any fewer and we may have not been able to flush out the changes that needed to be made.  Overall, the process enlightened us to the fact that the mind of the designer rarely is equivalent to the mind of the user, and so we must always be precautious in assuming an automatic understanding of new and nontrivial tasks.
 
+[Presentation](/Understanding_to_Make_Presentation.pdf)
+
 
 ### Appendix
 [Initial Paper Prototype](https://cmpelz.github.io/2018-10-29-paper_prototype/)
