@@ -2,7 +2,6 @@
 layout: post
 title: User Experience Design Overview
 subtitle: 'Understanding to Make' Summary
-subtitle: SWCMA
 ---
 
 ### Project Team Members
