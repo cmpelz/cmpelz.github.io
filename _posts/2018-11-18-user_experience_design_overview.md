@@ -5,8 +5,11 @@ subtitle: 'Understanding to Make' Summary
 ---
 
 ### Project Team Members
+
 Casey Pelz: designer and researcher
+
 Sam Grunebaum: designer and researcher
+
 Ryan Schmidt: designer and researcher
 
 ### Problem and Solution Overview
@@ -83,6 +86,7 @@ The images comprise a complete walkthrough of the final paper prototype.
 
 ### Digital Mock-Up
 ![](/img/digitalMockUp.png)
+
 Our Digital Mock-Up is a slight upgrade from our Final Paper Prototype in terms of functionality.  We added a home button, using a house icon, to the top right corner of every screen to allow the user the ability to return to the home screen at any time. We also toggled with the color scheme and use of white space in order to best direct the user to important design and functionality components and not overcrowd the screen while maintaining a design aesthetic that is consistent with WCMA’s general look. Our two main tasks remained the same.  Our first task, "Continued engagement with the users favorite or most memorable pieces," is achieved through the ability to track one's route and find art that interests them.  The app allows users to take pictures of pieces that would like to remember.  They are then able to look at other similar pieces in the museum.  These pieces can be shared via email or text.  More importantly, and leading into our second task,"Agency in one’s museum experience," users can then see similar pieces.  If they find another piece that interests them, they are able to either share it or find a route that takes them by it in the museum.  From the home screen users are also able to explore recent routes taken by other visitors to the museum, another way of exercising this task.  In this way users are engaging with the art in an exhibit that fits their interests, and the museum is responding by allowing them to express that and bring them to more art they may enjoy.  The control that can sometimes be enforced by winding hallways of a museum has now been placed firmly back in the hands of visitors.
 
 
