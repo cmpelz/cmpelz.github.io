@@ -4,7 +4,7 @@ title: User Experience Design Overview
 subtitle: 'Understanding to Make' Summary
 ---
 
-## User Experience and Design Overview
+## User Experience Design Overview
 
 ### Project Team Members
 
