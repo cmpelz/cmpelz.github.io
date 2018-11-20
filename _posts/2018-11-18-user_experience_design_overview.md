@@ -86,9 +86,14 @@ The images comprise a complete walkthrough of the final paper prototype.
 
 ### Appendix
 [Initial Paper Prototype](https://cmpelz.github.io/2018-10-29-paper_prototype/)
+
 [Heuristic Evaluation](https://cmpelz.github.io/2018-11-01-heuristic_evaluation/)
+
 [Usability Check-In](https://cmpelz.github.io/2018-11-05-usability_checkin/)
+
 [Usability Review](https://cmpelz.github.io/2018-11-08-usability_review/)
+
 [Final Paper Prototype](https://cmpelz.github.io/2018-11-08-final_paper_prototype/)
+
 [Digital Mock-Up](https://cmpelz.github.io/2018-11-13-digital_mock_up/)
 
