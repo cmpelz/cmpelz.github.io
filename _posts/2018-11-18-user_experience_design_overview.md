@@ -12,6 +12,8 @@ Sam Grunebaum: designer and researcher
 
 Ryan Schmidt: designer and researcher
 
+[Presentation](/Understanding_to_Make_Presentation.pdf)
+
 ### Problem and Solution Overview
 SWCMA tackles the problem of wayfinding at WCMA – whether within the gallery walls or in the collection of over 15,000 objects, our aim is to make our users the deciders of their own experience and give them ways to remember it that are both meaningful and tangible.
 
