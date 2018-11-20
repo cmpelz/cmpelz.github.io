@@ -81,7 +81,11 @@ User prints one of the routes they liked
 
 The images comprise a complete walkthrough of the final paper prototype.
 
+
 ### Discussion
+The iterative process allowed us to shape and reshape our design as we progressed through the project.  Through our usability tests we were able to identify components, functions, and concepts that appeared trivial to us, but in fact gave the user a lot of difficulty or were obscure.  For our project this initially meant altering our technological medium.  Instead of combining a kiosk and app, we shifted solely to the app.  Therefore our initial prototype differed greatly from our final prototype, where all the functionality was rolled into one interface.  Not only did this help us with the functional layout of our design, but it also led us to change one of our tasks.  Our vision of feeding curator inspired facts into one's experience did not playout in the prototype as expected.  Instead of being welcomed information, the "fun facts" mere presentation and existence within the app tended to seriously confuse users.  For this reason we swapped our second task for one that more adequately matched both the functionality of the app and the user's wants once using the app.  In this way, although our formal task changed, our functionality had already accounted for its completetion, therefore more closely syncing user expectations and desires with the design.  
+
+It is possible that more iterations may have produced tweaks that would have made a "better" design, but through the iterative process taken our group was able to identify and overcome large obstacles in the design successfully.  Any fewer and we may have not been able to flush out the changes that needed to be made.  Overall, the process enlightened us to the fact that the mind of the designer rarely is equivalent to the mind of the user, and so we must always be precautious in assuming an automatic understanding of new and nontrivial tasks.
 
 
 ### Appendix
