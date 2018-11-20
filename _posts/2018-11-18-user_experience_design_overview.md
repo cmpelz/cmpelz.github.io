@@ -67,4 +67,5 @@ User prints one of the routes they liked
 ![](/img/urHome.JPG)
 
 ![](/img/urSharePage.JPG)
-User saves their own route
+
+The images comprise a complete walkthrough of the final paper prototype.
