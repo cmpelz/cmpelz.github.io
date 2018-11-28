@@ -25,25 +25,24 @@ description: Home for all HCI
 navbar-links:
   About Us: "aboutme"
   Looking to Understand:
-    - Contextual Inquiry Plan: "https://cmpelz.github.io/2018-09-27-contextual_inquiry_plan/"
-    - Contextual Inquiry Check-In: "https://cmpelz.github.io/2018-10-01-contextual_inquiry_checkin/"
-    - Contextual Inquiry Review: "https://cmpelz.github.io/2018-10-04-contextual_inquiry_review/"
-    - Task Review: "https://cmpelz.github.io/2018-10-15-task_review/"
-    - Project Design Check-In: "https://cmpelz.github.io/2018-10-22-project_design/"
-    - User Experience Research Overview: "https://cmpelz.github.io/2018-10-24-ux_research_overview/"  
+    - Contextual Inquiry Plan: "2018-09-27-contextual_inquiry_plan"
+    - Contextual Inquiry Check-In: "2018-10-01-contextual_inquiry_checkin"
+    - Contextual Inquiry Review: "2018-10-04-contextual_inquiry_review"
+    - Task Review: "2018-10-15-task_review"
+    - Project Design Check-In: "2018-10-22-project_design"
+    - User Experience Research Overview: "2018-10-24-ux_research_overview"  
   Understanding to Make:
-    - Paper Prototype: "https://cmpelz.github.io/2018-10-29-paper_prototype/"
-    - Heuristic Evaluation: "https://cmpelz.github.io/2018-11-01-heuristic_evaluation/"
-    - Usability Check-In: "https://cmpelz.github.io/2018-11-05-usability_checkin/"
+    - Paper Prototype: "2018-10-29-paper_prototype"
+    - Heuristic Evaluation: "2018-11-01-heuristic_evaluation"
+    - Usability Check-In: "2018-11-05-usability_checkin"
     - Usability Review: "2018-11-8-usability_review"
-    - Final Paper Prototype: "https://cmpelz.github.io/2018-11-08-final_paper_prototype/"
-    - Digital Mock-Up: "https://cmpelz.github.io/2018-11-13-digital_mock_up/"
-    - User Experience Design Overview: "https://cmpelz.github.io/2018-11-18-user_experience_design_overview/"
+    - Final Paper Prototype: "2018-11-08-final_paper_prototype"
+    - Digital Mock-Up: "2018-11-13-digital_mock_up"
+    - User Experience Design Overview: "2018-11-18-user_experience_design_overview"
   Communicating the Design:
-    - Test: "test"
   Other:
-    - SWCMA Group Project Proposal: "https://cmpelz.github.io/2018-09-27-group_project_proposal/"
-    - Team Contract: "https://cmpelz.github.io/2018-09-27-team_contract/"
+    - SWCMA Group Project Proposal: "2018-09-27-group_project_proposal"
+    - Team Contract: "2018-09-27-team_contract"
   
 
 # Image to show in the navigation bar - image must be a square (width = height)
