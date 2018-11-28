@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 title: Usability Review
 subtitle: Final Round of Usability Tests
 ---
