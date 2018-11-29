@@ -23,7 +23,7 @@ description: Home for all HCI
 
 # List of links in the navigation bar
 navbar-links:
-  About Us: 
+  About: 
     - Who We Are: "aboutme"
     - SWCMA Group Project Proposal: "2018-09-27-group_project_proposal"
     - Team Contract: "2018-09-27-team_contract"
