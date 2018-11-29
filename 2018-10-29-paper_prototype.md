@@ -1,58 +1,73 @@
 ---
-layout: post
-title: <center>User Experience Research Overview</center>
-subtitle: <center>SWCMA - Finding your way, Your way</center>
+layout: page
+title: Paper Prototype
+subtitle: Lo-Fi Prototyping
 ---
 
-***
-
-## <center>Team Members</center> 
-<center>Ryan Schmidt - Designer</center> 
-<center>Sam Grunebaum - Designer</center>
-<center>Casey Pelz - Designer</center>
+![All Screens](/img/paperPrototype.png)
+The prototype reflects both the kiosk and mobile aspects of the design. During a museum visit, the user will alternate between the platforms reflected below.
 
 
-## <center>Problem and Solution Overview</center>
-At SWCMA, we operate under the belief that the most meaningful souvenirs one can bring home from a museum are memories of the experience, but when a visitor is confronted with meandering paths through a maze of galleries and no map to help them find the way, how can they chart their own journey through a museum in a way informed by their own tastes and interests? Our solution is a mobile platform used in conjunction with kiosks stationed throughout the museum that centers around letting users organically build routes for themselves through WCMA based on the art they love most and the academic topics about which they are passionate. The platform will allow users to save and share bespoke, interpretive route maps through the museum and to get creative with the countless shapes that these maps can take. Through building maps for themselves and others, users will be able to gain insight into WCMA’s collection and curating while building a personal profile around their artistic and academic tastes.
+### Task 1: Agency in one’s museum experience
+The user can gain agency in their visit by tracking their route and receiving a souvenir of it when they leave, indicating pieces (both in the museum and on the kiosk) and routes they have strong feelings about, and seeing similar pieces in WCMA's entire collection and routes that include selected pieces. 
 
-## <center>Design Research Goals, Stakeholders, and Participants</center>
-Three contextual inquiries were conducted with the goal of understanding how various user groups navigate the museum space and experience WCMA as a whole. We interviewed a current WCMA staff member who has knowledge of both the artwork as well as how the space was designed to be experienced by visitors, a student with deep knowledge of the WCMA collection who visits the museum often, and a first year student who has never previously been to WCMA. The contextual inquiries took place within WCMA.  Interviewees were asked to walk through the museum and to enjoy and art as they typically would if we were not with them. The three CIs provided a behind the scenes perspective into the thought and motivation behind WCMA’s exhibits as well as the viewpoint of both an avid and new user of the space. In this way we were able to attain data on users with varying degrees of knowledge on WCMA and the art within it.
+![Menu](/img/appMenu.jpg)
+Opening the app on one’s phone presents the user with 4 main options for navigation.
 
-## <center>Design Research Results and Themes</center>
-The main theme of our design research was that of wayfinding being inherently complicated within WCMA. WCMA has many possible paths from its entrance and infinitely more through its exhibits. This can lead to another observed theme that we have dubbed institutional confusion – a negative part of user experience where visitors become confused about where to go, what they can do, and/or what kinds of things are available at WCMA.  The other themes we observed in our inquiries related to visitor interaction with the museum and its collection – what kinds of emotional and sensory reactions they felt, how they felt they were able to engage with the broader collection rather than just the works on display, and their reactions to textual information. Related to this theme is the question of where to look – wayfinding for one’s eyes is just as crucial of a choice in a museum; this was demonstrated to us when both Williams students, each with vastly differing levels of experience with WCMA, described the angles, duration, and order of viewing that they employ when gazing at objects.  A user should be able to decide and interpret their own path through the museum – our design aims to make these decisions fun and exciting, rather than intimidating.
+![Route](/img/trackRoute.jpg)
+Upon choosing “Route Options” the user can decide to start, and later stop, tracking their route through the museum.
 
-[Full Research Review](https://cmpelz.github.io/2018-10-04-contextual_inquiry_review/ "Contextual Inquiry Review")
+![Start](/img/startedTracking.jpg)
+The app provides feedback for the user when they start tracking their route.
 
-## <center>Task Analysis Questions</center> 
-Our design is going to be used by any and all museum visitors within WCMA. At this point, our users perform the standard tasks associated with visiting a museum, such as wandering exhibits and looking at art. However, we define our desired tasks to be:  
-* Discovering works that otherwise would have been overlooked
-* Conveying personal artistic preferences so the product can tailor itself to each user specifically
-* Learning about the curator’s perspective and vision for the exhibit
-* Continued engagement with the users favorite or most memorable pieces
-* Learning more about the collection as a whole, most notably introduction to the virtual collection
-* Gaining agency in one’s museum experience  
+![First Kiosk](/img/kioskFirst.jpg)
+The first kiosk is stationed by the stairs on the first floor and shows a menu of works displayed on the first floor that can be scrolled through and clicked on for more information.
 
-The new tasks will be learned through prompts in the design, while the existing tasks will simply need to be introduced to the users along with the tools to achieve them, also built into the design. Our users will relate to the data in a personalized, and engaging manner that gives them agency in their visit. Outside of the technological tools our design provides, users also have the WCMA website, in-museum guidance, and WCMA staff members as tools to guide their visits. Users communicate with each other both in person and through the act of sharing their maps. While sharing maps happens only once during the visit, the other tasks are performed in between exhibits and occasionally in the exhibits. These tasks would span the duration of the visit, and should anything go wrong during that time, the users could seek technical help from the kiosks, or simply restart their visit.
+![Kiosk Like](/img/kioskLike.jpg)
+Clicking on a painting provides more information (artist, medium, date, etc.) and invites the user to “Like” or “Dislike” the painting or add it to their account’s “Collection” by scanning the QR code on the screen as well as showing a link to past routes through the museum that visited that work.
 
-[Full Task Analysis Responses](https://cmpelz.github.io/2018-10-04-contextual_inquiry_review/ "Contextual Inquiry Review")
+![QR Success](/img/kioskUpload.jpg)
+Feedback for successful upload of a piece from kiosk to phone.
 
-## <center>Proposed Design Sketches</center>  
-![Design Sketches](/img/threePics.png)
-[Full Design Sketch Proposals](https://cmpelz.github.io/2018-10-15-task_review/ "Task Review")
+![Old Routes](/img/routesIncluding.jpg)
+A menu showing past routes that include the specific work and the dates on which they were created – clicking on a route provides more information.
 
-## <center>Written Scenarios</center>
+![Liked Route](/img/likeRoute.jpg)
+Users can like or dislike a specific route or can save it by scanning a QR code that saves the route to their account for future viewing or use.
 
-[Written Scenarios and Design Choice Overview](https://cmpelz.github.io/2018-10-22-project_design/)
+![Like Success](/img/routeLikeUpload.jpg)
+Feedback for a successful QR code scan of a liked/disliked route from the kiosk to the mobile app.
 
-## <center>Storyboards</center>
+![Pic Review](/img/pic.jpg)
+Upon clicking “Review a Piece” the user is taken to an in-app camera.
 
-**_<center>Gaining agency in one’s museum experience</center>_**
-![Agency](/img/agencyStoryBoard.jpg)
+![Like](/img/appLike.jpg)
+The camera function gives the user the ability to like or dislike a piece of art.
 
-**_<center>Learning about the curator’s perspective and vision for the exhibit</center>_**
-![Curator](/img/curatorStoryBoard.jpg)
+![QR](/img/appQR.jpg)
+Feedback for a successful QR code scan to upload pieces liked/disliked via the camera on the mobile app to the kiosk.
+
+![Upload](/img/appUpload.jpg)
+When the upload is complete, the app gives the user feedback to let them know.
+
+![End Route](/img/stopTracking.jpg)
+At the end of the visit, the user stops tracking their route.
+
+![Route Options](/img/routeOptions.jpg)
+The final kiosk is stationed right by the door facing the stairs so that users exiting the museum can share, save, or print their routes by scanning the QR code on their phone app with the kiosk’s scanner.
+
+![Route Shared](/img/shareRoute.jpg)
+Feedback for successful scanning in of routes displays a success message and a small image of the route that can be printed, shared, or saved to your account.
 
 
-[Presentation](/SWCMA.pdf)
+### Task 2: Learning about the curator’s perspective and vision for the exhibit
+The user enables "curator notifications" and the mobile app provides banner style notifications with insight about the curator's intention for the user's specific location in the exhibit.
 
+![Curator Facts](/img/curationEnabled.jpg)
+Upon enabling curator notifications, the user is notified that this setting is active.
 
+![Banner](/img/curationFact.jpg)
+Curating facts appear as banners as users walk around the museum.
+
+![More Facts](/img/moreInfo.jpg)
+By pulling down the user is able to obtain more information in a pop-up-esque screen and can then share with friends if they would like.
