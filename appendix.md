@@ -28,6 +28,8 @@
 
 [Digital Mock-Up](https://cmpelz.github.io/2018-11-13-digital_mock_up/)
 
+[Initial Video](https://cmpelz.github.io/video/)
+
 
 ### Presentations
 [UX Design Presentation](/Understanding_to_Make_Presentation.pdf)
