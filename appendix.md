@@ -32,4 +32,7 @@ title: Appendix
 
 [Digital Mock-Up](https://cmpelz.github.io/2018-11-13-digital_mock_up/)
 
+
 ### Presentations
+[Presentation](/Understanding_to_Make_Presentation.pdf)
+[Presentation](/SWCMA.pdf)
