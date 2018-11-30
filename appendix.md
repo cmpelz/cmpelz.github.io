@@ -6,19 +6,19 @@ title: Appendix
 
 ### Deliverables
 
-[Initial Paper Prototype](https://cmpelz.github.io/2018-09-27-group_project_proposal/)
+[Group Project Proposal](https://cmpelz.github.io/2018-09-27-group_project_proposal/)
 
-[Initial Paper Prototype](https://cmpelz.github.io/2018-09-27-team_contract/)
+[Team Contract](https://cmpelz.github.io/2018-09-27-team_contract/)
 
-[Initial Paper Prototype](https://cmpelz.github.io/2018-09-27-contextual_inquiry_plan/)
+[Contextual Inquiry Plan](https://cmpelz.github.io/2018-09-27-contextual_inquiry_plan/)
 
-[Initial Paper Prototype](https://cmpelz.github.io/2018-10-01-contextual_inquiry_checkin/)
+[Contextual Inquiry Checkin](https://cmpelz.github.io/2018-10-01-contextual_inquiry_checkin/)
 
-[Initial Paper Prototype](https://cmpelz.github.io/2018-10-01-contextual_inquiry_checkin/)
+[Contextual Inquiry Review](https://cmpelz.github.io/2018-10-01-contextual_inquiry_review/)
 
-[Initial Paper Prototype](https://cmpelz.github.io/2018-10-15-task_review/)
+[Task Review](https://cmpelz.github.io/2018-10-15-task_review/)
 
-[Initial Paper Prototype](https://cmpelz.github.io/2018-10-22-project_design/)
+[Project Design](https://cmpelz.github.io/2018-10-22-project_design/)
 
 [Initial Paper Prototype](https://cmpelz.github.io/2018-10-29-paper_prototype/)
 
@@ -34,5 +34,6 @@ title: Appendix
 
 
 ### Presentations
-[Presentation](/Understanding_to_Make_Presentation.pdf)
-[Presentation](/SWCMA.pdf)
+[UX Design Presentation](/Understanding_to_Make_Presentation.pdf)
+
+[UX Research Presentation](/SWCMA.pdf)
