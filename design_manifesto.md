@@ -16,6 +16,8 @@ Approaching the process of determining the best solutions to these concerns was 
 
 After only a couple iterations, the pattern became clear. Working separately from each other helped us develop an array of ideas, but it wasn’t till we reunited and designed together that we took any steps forward with our design. Alone our minds worked on a single track, producing only one concept of how to create our design. But coming together to do things like affinity diagram and brainstorm allowed us to pool all of our ideas and build off their variations to create something even better than any of us came up with alone.
 
+![](/img/threePics.png)
+
 And it wasn't just the multiple heads in our group that we benefitted from, it was also our potential users who helped us realize design elements we would have never even considered previously. Through processes like contextual inquiries, paper prototyping, heuristic evaluations, and many more, we were able to incorporate the insights of even more people with importantly different stakes in our design.
 
 #### You Are Not Your User
