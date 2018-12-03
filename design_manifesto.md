@@ -65,7 +65,9 @@ Design is not only about creating something functional, but doing it in a way th
 
 1. Do not gather, store, or distribute users’ data without explicit consent
    * Many companies and organizations have gotten in trouble for mishandling of their users’ data, much less the annoying mail lists you’re constantly accidentally subscribing to. In order  to avoid any uncertainty about how our users’ data was being used, we inserted a disclaimer informing them that we would never store their data nor use it to contact them. Clarity is key!
+   
    ![](/img/dm5:8.png)
+
 2. Do not perform any kind of experimentation or research involving the users without their explicit consent
    * The design process is chalk full of experiments, but the key is to always ask for consent before performing them, and to certainly never perform experiments on users via the design itself without consent. Clarity, clarity, clarity!
 3. Be sure the design is accessible to every possible user, such that it never ostracizes or excludes anyone
