@@ -35,3 +35,15 @@
 [UX Design Presentation](/Understanding_to_Make_Presentation.pdf)
 
 [UX Research Presentation](/SWCMA.pdf)
+
+
+### Personal Projects
+[Bad Design](https://cmpelz.github.io/2018-09-10-bad_design/)
+
+[Good Design](https://cmpelz.github.io/2018-09-10-good_design/)
+
+[Project Proposal](https://cmpelz.github.io/2018-09-19-project_proposal/)
+
+[Research Paper Report](https://cmpelz.github.io/2018-11-13-research_paper_report/)
+
+[Design Manifesto](https://cmpelz.github.io/design_manifesto/)
