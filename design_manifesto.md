@@ -65,6 +65,7 @@ Design is not only about creating something functional, but doing it in a way th
 
 1. Do not gather, store, or distribute users’ data without explicit consent
    * Many companies and organizations have gotten in trouble for mishandling of their users’ data, much less the annoying mail lists you’re constantly accidentally subscribing to. In order  to avoid any uncertainty about how our users’ data was being used, we inserted a disclaimer informing them that we would never store their data nor use it to contact them. Clarity is key!
+   ![](/img/dm5:8.png)
 2. Do not perform any kind of experimentation or research involving the users without their explicit consent
    * The design process is chalk full of experiments, but the key is to always ask for consent before performing them, and to certainly never perform experiments on users via the design itself without consent. Clarity, clarity, clarity!
 3. Be sure the design is accessible to every possible user, such that it never ostracizes or excludes anyone
@@ -81,3 +82,5 @@ Looking back at the journey that is the design process, I realize that it wasn�
 There were certainly times when I couldn’t fathom recreating our paper prototype AGAIN, or meticulously performing a cognitive walk-through; but without each and every one of those steps, our design would not be what it is today. And it wasn’t just the tests themselves, but the time we were forced to spend thinking critically about our design in the context of the tests that led to some of the most profound improvements. So that’s why I say “embrace the process” because it does work and it is only through the full commitment that the magical breakthrough moments occur. 
 
 But beyond that, the design process has taught me how to work in a team, the importance of fostering good professional and personal relationships with group-mates, and what it means to be an ethical designer. And these are all lessons that I will carry with me in all future projects both in and outside of the design world. Because if you don’t enjoy the process, you’ll never be happy with the result.
+
+![](/img/SWCMA Logo.png)
