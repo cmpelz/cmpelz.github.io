@@ -12,6 +12,8 @@ Beyond the ever difficult task of developing an interesting and unique idea, com
 
 Approaching the process of determining the best solutions to these concerns was daunting to say the least. So we started at the beginning, trying to define who our user was and what they needed, a task that proved fruitless until we did our first couple of contextual inquiries and spent some time creating an affinity diagram. As we went over the information we had gathered, we started brainstorming and bouncing ideas off each other until we finally arrived at what we thought was a solution to our users’ needs. Then we went our separate ways and each created a series of design sketches for different implementations of our six core tasks. When we came back together, we realized we had each prioritized different tasks and thought about them in the context of our design in completely different ways. So put our heads back together to determine which implementation we wanted to move forward with, then split again to create storyboards and again returned with discontinuous designs. This same process continued with other steps of the design process.
 
+![](/img/affinityDiagram.png)
+
 After only a couple iterations, the pattern became clear. Working separately from each other helped us develop an array of ideas, but it wasn’t till we reunited and designed together that we took any steps forward with our design. Alone our minds worked on a single track, producing only one concept of how to create our design. But coming together to do things like affinity diagram and brainstorm allowed us to pool all of our ideas and build off their variations to create something even better than any of us came up with alone.
 
 And it wasn't just the multiple heads in our group that we benefitted from, it was also our potential users who helped us realize design elements we would have never even considered previously. Through processes like contextual inquiries, paper prototyping, heuristic evaluations, and many more, we were able to incorporate the insights of even more people with importantly different stakes in our design.
@@ -47,6 +49,8 @@ Beyond pulling from existing accessibility research, we also found that it was b
 Yes, everyone wants to create the next new and exciting thing, or discover the better way to do something, but some things just work better because they are so universal.
 
 Nowhere was this more clear then when we were creating our digital mockup on Balsamiq and readily used the preexisting templates and design interfaces to create an intuitive design that almost every user would be able to operate simply through its familiarity. Because at the end of the day, a completely novel app camera design may be exciting, but if no one knows how to use it, its excitement is rendered useless.
+
+![](/img/urCamera.JPG)
 
 #### Do the Right Thing
 
