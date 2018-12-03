@@ -85,4 +85,4 @@ There were certainly times when I couldn’t fathom recreating our paper prototy
 
 But beyond that, the design process has taught me how to work in a team, the importance of fostering good professional and personal relationships with group-mates, and what it means to be an ethical designer. And these are all lessons that I will carry with me in all future projects both in and outside of the design world. Because if you don’t enjoy the process, you’ll never be happy with the result.
 
-![](/img/SWCMA Logo.png)
+![](/img/logo.png)
