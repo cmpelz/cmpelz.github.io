@@ -84,5 +84,3 @@ Looking back at the journey that is the design process, I realize that it wasn�
 There were certainly times when I couldn’t fathom recreating our paper prototype AGAIN, or meticulously performing a cognitive walk-through; but without each and every one of those steps, our design would not be what it is today. And it wasn’t just the tests themselves, but the time we were forced to spend thinking critically about our design in the context of the tests that led to some of the most profound improvements. So that’s why I say “embrace the process” because it does work and it is only through the full commitment that the magical breakthrough moments occur. 
 
 But beyond that, the design process has taught me how to work in a team, the importance of fostering good professional and personal relationships with group-mates, and what it means to be an ethical designer. And these are all lessons that I will carry with me in all future projects both in and outside of the design world. Because if you don’t enjoy the process, you’ll never be happy with the result.
-
-![](/img/logo.png)
