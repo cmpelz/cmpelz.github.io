@@ -50,7 +50,7 @@ Yes, everyone wants to create the next new and exciting thing, or discover the b
 
 Nowhere was this more clear then when we were creating our digital mockup on Balsamiq and readily used the preexisting templates and design interfaces to create an intuitive design that almost every user would be able to operate simply through its familiarity. Because at the end of the day, a completely novel app camera design may be exciting, but if no one knows how to use it, its excitement is rendered useless.
 
-![](/img/urCamera.JPG)
+![](/img/dm2.png)
 
 #### Do the Right Thing
 
