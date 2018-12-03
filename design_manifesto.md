@@ -34,6 +34,9 @@ If it was possible to create a perfect design right out of the gate without ever
 
 Sure this means that a button can always be changed to be a more perfect size, or a phrasing can always be more intuitive, but most importantly, it means there are always steps that can be taken to make the design more accessible. 
 
+![](/img/accessibility.png)
+[Source](https://accessibility.blog.gov.uk/2016/09/02/dos-and-donts-on-designing-for-accessibility/)
+
 For instance, we tested our design on exclusively able-bodied individuals. But what if someone with limited mobility wanted to use it? Or maybe someone with impaired vision or color blindness? Considerations like these are infinitely important in the design process, but addressing them can sometimes be tricky and non-obvious.
 
 The obvious approach would be to have people who need accessibility accommodations test the design while it’s still a work in progress. However, it can be difficult both logistically and personably to locate such individuals. We performed all of our tests on able-bodied individuals because we didn’t know of any non-able-bodied people who could do our test, and didn’t know how to go about soliciting them without simultaneously ostracizing or making them feel inferior. 
