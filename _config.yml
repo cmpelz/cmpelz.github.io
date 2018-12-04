@@ -61,7 +61,7 @@ fotter-link-col: "#FFFFFF"
 # Change all these values or delete the ones you don't want.
 # Important: you must keep the "name" parameter, everything else you can remove
 author:
-  name: [Github Repository](https://github.com/cmpelz/cmpelz.github.io)
+  name: Casey Pelz, Sam Grunebaum, Ryan Schmidt
   
 
 # Select your active Social Network Links.
