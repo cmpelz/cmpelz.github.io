@@ -69,7 +69,7 @@ Design is not only about creating something functional, but doing it in a way th
    ![](/img/dm5:8.png)
 
 2. Do not perform any kind of experimentation or research involving the users without their explicit consent
-   * The design process is chalk full of experiments, but the key is to always ask for consent before performing them, and to certainly never perform experiments on users via the design itself without consent. Clarity, clarity, clarity!
+   * The design process is chock full of experiments, but the key is to always ask for consent before performing them, and to certainly never perform experiments on users via the design itself without consent. Clarity, clarity, clarity!
 3. Be sure the design is accessible to every possible user, such that it never ostracizes or excludes anyone
    * As previously mentioned, not catering the design to everyone suggests that some people are unworthy of using it, and in turn, somehow inferior. On the simple standard of human dignity, no person should be made to feel this way, and so the design must meet everyone’s needs.
 4. Always put the users’ needs and wants first
