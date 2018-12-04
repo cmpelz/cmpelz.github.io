@@ -22,7 +22,7 @@
 
 [Usability Check-In](https://cmpelz.github.io/2018-11-05-usability_checkin/)
 
-[Usability Review](https://cmpelz.github.io/2018-11-08-usability_review/)
+[Usability Review](https://cmpelz.github.io/2018-11-8-usability_review/)
 
 [Final Paper Prototype](https://cmpelz.github.io/2018-11-08-final_paper_prototype/)
 
