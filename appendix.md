@@ -36,6 +36,8 @@
 
 [UX Research Presentation](/SWCMA.pdf)
 
+### Github
+[Repository](https://github.com/cmpelz/cmpelz.github.io)
 
 ### Personal Projects
 [Bad Design](https://cmpelz.github.io/2018-09-10-bad_design/)
